@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    /* font-family: "Inter", sans-serif; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: rgb(82,33,229);
+    background: linear-gradient(90deg, rgba(82,33,229,1) 0%, rgb(137, 101, 245) 100%);
+    transform-origin: 0%;
+  }
